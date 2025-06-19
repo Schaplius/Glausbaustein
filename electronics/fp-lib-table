@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BCR430UW6-7")(type "KiCad")(uri "${KIPRJMOD}/BCR430UW6-7")(options "")(descr ""))
+  (lib (name "DC_JACK_5521")(type "KiCad")(uri "${KIPRJMOD}/DC_JACK_5521")(options "")(descr ""))
+  (lib (name "LED_3528_Ali")(type "KiCad")(uri "${KIPRJMOD}/LED_3528_Ali/footprints.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/BCR430UW6-7/Library.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/SSM6N7002KFU/footprints.pretty")(options "")(descr ""))
+)
